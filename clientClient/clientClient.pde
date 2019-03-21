@@ -38,7 +38,7 @@ lightningBolt magi = new lightningBolt();
 Client c; 
 String input;
 float data[]; 
-int abe;
+int abe; // dette er en abe
 
 void setup() { 
   fullScreen();
